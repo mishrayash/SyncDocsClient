@@ -2,6 +2,9 @@
 
 This is a Google Docs clone built using React.js, Quill.js, Socket.io, and MongoDB. It allows users to collaborate on text documents in real-time.
 
+![Screenshot (92)](https://github.com/mishrayash/SyncDocsClient/assets/80852441/ef20cc7b-4836-4150-b028-f8b3765ec4e1)
+
+
 # Features
 
 Real-Time Collaboration: Multiple users can simultaneously edit and view changes in real-time.
