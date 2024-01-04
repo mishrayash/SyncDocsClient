@@ -8,6 +8,8 @@ import {
 } from "react-router-dom";
 import { v4 as uuidV4 } from "uuid";
 
+const ct=10;
+
 const App = () => {
   return (
     <Router>
